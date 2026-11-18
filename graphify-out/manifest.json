@@ -1,0 +1,38 @@
+{
+  "raw/01_user_intent.md": {
+    "mtime": 1794976400.5260546,
+    "seen": 1794976411.2441378,
+    "ast_hash": "3821d2fd580d89b08b72cd803daae3f2",
+    "semantic_hash": ""
+  },
+  "raw/02_installation.md": {
+    "mtime": 1794976400.5381339,
+    "seen": 1794976411.2441447,
+    "ast_hash": "b1695406982a605def36dfc52b028f02",
+    "semantic_hash": ""
+  },
+  "raw/03_graphify_setup.md": {
+    "mtime": 1794976400.5541456,
+    "seen": 1794976411.2441483,
+    "ast_hash": "de2302b8614074c49bb62206fbdd87da",
+    "semantic_hash": ""
+  },
+  "raw/04_integration_methods.md": {
+    "mtime": 1794976400.5724545,
+    "seen": 1794976411.2441502,
+    "ast_hash": "2bf9b86b0d76e246dcd83c5662a0885b",
+    "semantic_hash": ""
+  },
+  "raw/05_webpage_templates.md": {
+    "mtime": 1794976400.587433,
+    "seen": 1794976411.2441525,
+    "ast_hash": "4907e1c7f0bbb6dbfe0a99dc58d94fc8",
+    "semantic_hash": ""
+  },
+  "raw/06_conversation_flow.md": {
+    "mtime": 1794976400.6024938,
+    "seen": 1794976411.2441542,
+    "ast_hash": "6d1c82b2487c346acf84cefbc0748026",
+    "semantic_hash": ""
+  }
+}
